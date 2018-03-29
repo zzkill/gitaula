@@ -27,5 +27,9 @@ git reset HEAD arquivo.txt // estagio 2 > 1
 
 start notepad++ arquivo.txt
 
+git checkout <codigo commit ou brench>
+
+git reset HEAD~x # volta x commits
+
 
 
