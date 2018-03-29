@@ -31,5 +31,7 @@ git checkout <codigo commit ou brench>
 
 git reset HEAD~x # volta x commits
 
+git reset HEAD~1 --soft # volta mais de leves
+
 
 
