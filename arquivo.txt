@@ -1,2 +1,27 @@
-Aqui eu apaguei a linha
-Aqui tambem
+git log -p -1
+git log --stat
+
+cd dir
+cd ..
+mkdir
+notepad arquivo.txt ctrl + s
+
+clear
+
+git init // (master)
+
+vim arquivo.txt
+esc :wq enter
+
+git status
+git add arquivo.txt
+git commit -m 'comandos adcionados'
+
+
+git add .
+git commit -a -m 'commitando varios arquivos de 1 vez'
+
+
+
+
+
