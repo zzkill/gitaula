@@ -8,7 +8,7 @@ notepad arquivo.txt ctrl + s
 
 clear
 
-git init // (master)
+git init #(master)
 
 vim arquivo.txt
 esc :wq enter
@@ -21,7 +21,11 @@ git commit -m 'comandos adcionados'
 git add .
 git commit -a -m 'commitando varios arquivos de 1 vez'
 
-notepad .gitignore // digitar arquivos a serem ignorados
+notepad .gitignore # digitar arquivos a serem ignorados
+
+git reset HEAD arquivo.txt // estagio 2 > 1
+
+start notepad++ arquivo.txt
 
 
 
