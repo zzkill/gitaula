@@ -21,7 +21,7 @@ git commit -m 'comandos adcionados'
 git add .
 git commit -a -m 'commitando varios arquivos de 1 vez'
 
-
+notepad .gitignore // digitar arquivos a serem ignorados
 
 
 
